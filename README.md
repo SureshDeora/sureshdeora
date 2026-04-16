@@ -10,7 +10,7 @@ defensive security.
 
 ### 🔧 What I'm Working On
 - 🔴 Completing TCM Security Practical Ethical Hacking (PEH) course
-- 🔵 Practicing on TryHackMe — [My Profile](https://tryhackme.com/p/YOUR_USERNAME)
+- 🔵 Practicing on TryHackMe — [My Profile](https://tryhackme.com/p/Alpha.Sec)
 - 🟢 Building cybersecurity projects for my portfolio
 
 ### 🛠️ Skills & Tools
