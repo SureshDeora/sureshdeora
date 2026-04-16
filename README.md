@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Suresh Deora 👋
 
 ## 🛡️ Cybersecurity Professional | RHCE & RHCSA Certified
@@ -31,4 +31,3 @@ defensive security.
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/suresh-deora)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:sdesureshdeora@gmail.com)
-```
