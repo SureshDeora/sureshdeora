@@ -13,8 +13,11 @@ skills through TCM Security PEH course and TryHackMe labs.
 
 ### 🛠️ Skills
 **Security:** Nmap, Burp Suite, Metasploit, Wireshark, Wazuh SIEM
+
 **Linux:** RHEL, Kali Linux, Ubuntu | RHCE & RHCSA Certified
+
 **Automation:** Ansible, Bash Scripting, Python
+
 **Networking:** TCP/IP, DNS, DHCP, Subnetting, Firewalls
 
 ### 📜 Certifications
